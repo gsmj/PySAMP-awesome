@@ -1,5 +1,3 @@
-# PySAMP-awesome
-
 ## PySAMP
 
 - [PySAMP](https://github.com/pysamp/PySAMP)
